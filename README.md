@@ -45,7 +45,7 @@ An implementation of the seam-carving algorithm for content-aware image resizing
 
 ### **How to Run**
 
-1. Navigate to the `**Image_Resizer**` directory in the terminal.
+1. Navigate to the `Seam_carving` directory in the terminal.
 2. Run the **`driver.py`** Python script located in **`/src`**. Pass the input image filename (must reside in **`/data/input`**) as a command line argument.
     
     ```bash
